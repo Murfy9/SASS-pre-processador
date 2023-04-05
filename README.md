@@ -1,5 +1,5 @@
 <h1 align="center">
-📚 SASS-spa<br/>
+📚 SASS Pre-processador<br/>
 Cursos na Alura - SASS: CSS sintaticamente espetacular
 </h1>
 
